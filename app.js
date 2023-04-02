@@ -1,6 +1,5 @@
 console.log("hello");
 
-
 function SavedButton(){
     console.log("working save btn")
     var wet =  document.querySelector(".inputBox1").innerHTML;
@@ -75,3 +74,8 @@ function delBtn(ele){
     document.querySelector(".inputBox1").innerHTML = "";
     document.querySelector(".inputBox2").innerHTML = "";
 }
+Collapse
+
+
+
+
